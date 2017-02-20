@@ -1,0 +1,21 @@
+﻿  DelayBuffer.cpp
+  PluginEditor.cpp
+  PluginProcessor.cpp
+..\..\Source\DelayBuffer.cpp(38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\Source\DelayBuffer.cpp(79): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\..\Source\DelayBuffer.cpp(95): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(101): warning C4100: 'sliderThatWasMoved': unreferenced formal parameter
+..\..\Source\PluginProcessor.cpp(103): warning C4100: 'index': unreferenced formal parameter
+..\..\Source\PluginProcessor.cpp(108): warning C4100: 'index': unreferenced formal parameter
+..\..\Source\PluginProcessor.cpp(113): warning C4100: 'newName': unreferenced formal parameter
+..\..\Source\PluginProcessor.cpp(113): warning C4100: 'index': unreferenced formal parameter
+..\..\Source\PluginProcessor.cpp(119): warning C4100: 'samplesPerBlock': unreferenced formal parameter
+..\..\Source\PluginProcessor.cpp(162): warning C4100: 'midiMessages': unreferenced formal parameter
+     Creating library C:\Users\Brendan\Documents\DDLModule\Builds\VisualStudio2015\x64\Release\DDLModule.lib and object C:\Users\Brendan\Documents\DDLModule\Builds\VisualStudio2015\x64\Release\DDLModule.exp
+  Generating code
+  Finished generating code
+  DDLModule.vcxproj -> C:\Users\Brendan\Documents\DDLModule\Builds\VisualStudio2015\x64\Release\DDLModule.dll
+          1 file(s) copied.

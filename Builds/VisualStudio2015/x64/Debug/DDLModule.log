@@ -1,0 +1,7 @@
+﻿  DelayBuffer.cpp
+..\..\Source\DelayBuffer.cpp(35): warning C4458: declaration of 'sampleRate' hides class member
+  c:\users\brendan\documents\ddlmodule\source\DelayBuffer.h(40): note: see declaration of 'DelayBuffer::sampleRate'
+..\..\Source\DelayBuffer.cpp(38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  DDLModule.vcxproj -> C:\Users\Brendan\Documents\DDLModule\Builds\VisualStudio2015\x64\Debug\DDLModule.dll
+  DDLModule.vcxproj -> x64\Debug\\DDLModule.pdb (Full PDB)
+          1 file(s) copied.
