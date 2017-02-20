@@ -12,3 +12,10 @@ The delay has three variable parameters:
 The project was designed to familiarise myself with the JUCE Cross-Platform C++ Framework as well as to practise theoretical DSP aspects learnt over the last few months.
 
 The delay line is implemented using a circular buffer and could form the basis of many other more detailed delay-based effects such as cross-feedback delay, analog modelled delays and tap delays etc
+
+The plugin can be used in any 64-bit Digital Audio Workstation (DAW) that hosts VST3 plugins. 
+
+To compile and build the source code, open the solution in Microsoft Visual Studio and hit build (F7).
+To use straight away, copy the .vst3 file from the Release folder into your systems VST3 folder, often found in the path:
+  
+  C:\Program Files\Common Files\VST3
